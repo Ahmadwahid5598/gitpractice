@@ -1,3 +1,3 @@
-## This repo is just practicing git.
+'''This repo is just for practicing git.'''
 
 print('Hello! world')
