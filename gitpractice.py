@@ -2,7 +2,6 @@
 
 print('Hello! world')
 '''
-My name is Ahmad
-
-
+My first name is Ahmad
+and my second name is wahid
 '''
